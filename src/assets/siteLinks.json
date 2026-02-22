@@ -1,6 +1,7 @@
 [
   {
-    "icon": "Blog",
+    "name": "Blog",
+    "icon": "Blog"
     "name": "博客",
     "link": "https://blog.lemonworld.dpdns.org/"
   }
