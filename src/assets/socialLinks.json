@@ -4,24 +4,18 @@
     "icon": "/images/icon/github.png",
     "tip": "去 Github 看看",
     "url": "https://github.com/jams-peter-cloud"
-<<<<<<< HEAD
-=======
   },
   {
     "name": "CCW",
     "icon": "/images/icon/homelogo2.png",
     "tip": "去 CCW 看看",
     "url": "https://www.ccw.site/student/65ebc3034b42321bf8dae6d2"
->>>>>>> eeaa02f49a747dc56fd005eceffd0fd567e21e79
   },
   {
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-<<<<<<< HEAD
+
     "url": "mailto:mr.lemon@lomonworld.dpdns.org"
-=======
-    "url": "mailto:mr.lemon@lemonworld.dpdns.org"
->>>>>>> eeaa02f49a747dc56fd005eceffd0fd567e21e79
   }
 ]
