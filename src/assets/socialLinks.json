@@ -6,9 +6,15 @@
     "url": "https://github.com/jams-peter-cloud"
   },
   {
+    "name": "CCW",
+    "icon": "/images/icon/homelogo2.png",
+    "tip": "去 CCW 看看",
+    "url": "https://www.ccw.site/student/65ebc3034b42321bf8dae6d2"
+  },
+  {
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "mailto:jams-peter@outlook.com"
+    "url": "mailto:mr.lemon@lemonworld.dpdns.org"
   }
 ]
